@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0da3bde1.chunk.css",
+    "main.js": "/portfolio/static/js/main.2e753577.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2e753577.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.7a956ebb.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.7a956ebb.js.map",
+    "static/js/2.17ca3841.chunk.js": "/portfolio/static/js/2.17ca3841.chunk.js",
+    "static/js/2.17ca3841.chunk.js.map": "/portfolio/static/js/2.17ca3841.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.0da3bde1.chunk.css.map": "/portfolio/static/css/main.0da3bde1.chunk.css.map",
+    "static/js/2.17ca3841.chunk.js.LICENSE.txt": "/portfolio/static/js/2.17ca3841.chunk.js.LICENSE.txt",
+    "static/media/elvin.aeaa2228.png": "/portfolio/static/media/elvin.aeaa2228.png",
+    "static/media/elvin4.69982084.png": "/portfolio/static/media/elvin4.69982084.png",
+    "static/media/elvin_khunt_gcet_2023.280c570b.pdf": "/portfolio/static/media/elvin_khunt_gcet_2023.280c570b.pdf",
+    "static/media/port1.fb8ac953.png": "/portfolio/static/media/port1.fb8ac953.png",
+    "static/media/port2.c789a7ab.png": "/portfolio/static/media/port2.c789a7ab.png",
+    "static/media/port3.ca996eb5.png": "/portfolio/static/media/port3.ca996eb5.png",
+    "static/media/port4.82f6c1f8.webp": "/portfolio/static/media/port4.82f6c1f8.webp",
+    "static/media/port5.bc329ea5.jpg": "/portfolio/static/media/port5.bc329ea5.jpg",
+    "static/media/port6.9235a6ae.png": "/portfolio/static/media/port6.9235a6ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a956ebb.js",
+    "static/js/2.17ca3841.chunk.js",
+    "static/css/main.0da3bde1.chunk.css",
+    "static/js/main.2e753577.chunk.js"
+  ]
+}
